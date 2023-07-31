@@ -1,6 +1,7 @@
 # Motion Detector using Python
 
 ## Demo
+
 ![Demo](motion-detector-demo.png)
 
 ## Description:
