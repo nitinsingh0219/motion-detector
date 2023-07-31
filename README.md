@@ -1,5 +1,8 @@
 # Motion Detector using Python
 
+## Demo
+![Demo](motion-detector-demo.png)
+
 ## Description:
 Motion Detector using Python is a simple software application that leverages Python programming language and OpenCV library to detect motion in a video stream. The program captures frames from a connected camera or webcam and analyzes them to identify changes in pixel values over time. When significant changes occur, it classifies them as potential motion and triggers appropriate actions, such as displaying motion alerts, saving video clips, or executing custom responses.
 
